@@ -8,6 +8,7 @@ This is a simple to assemble VEX linetracking oriented bot designed for classroo
 ## Step 1 
 
 Install the IMU as shown below, using a light blue screw and nut.
+
 [![Image](Pictures/step1.png)]
 [![Image](Pictures/step2.png)]
 
@@ -42,6 +43,7 @@ Repeat step 5 on the **left** side of the chassis
 ## Step 7
 
 Install the 3 linetracking sensors in the middle three mounting holes as shown below. Use purple screws and mount the sensors with a 1/2in spacer.
+
 [![Image](Pictures/step8.png)]
 
 ## Step 8 
@@ -69,11 +71,13 @@ Screw in the two standoffs on each side using screws from below.
 Attaching the handle.
 
 Screw in the metal C-channel to the top of the two standoffs using two orange screws.
-[![Image](Pictures/step13.png)]
+[![Image](Pictures/Step13.png)]
 
 ## Step 13 
 
 Slide in the battery over the two motorss
+
+[![Image](Pictures/Step14.png)]
 
 
 
