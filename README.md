@@ -17,7 +17,7 @@ Install the IMU as shown below, using a light blue screw and nut.
 ## Step 2 
 
 Install the Distance Sensor as shown using two light blue screws.
-[![Image](Pictures/step0.png)]
+[![Image](Pictures/Step0.png)]
 
 ## Step 3 
 
