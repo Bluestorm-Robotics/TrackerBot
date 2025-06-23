@@ -1,6 +1,11 @@
 #include "main.h"
 
 /////
+// DO NOT EDIT ANY of the constants functions!!!!
+/////
+
+
+/////
 // For installation, upgrading, documentations, and tutorials, check out our website!
 // https://ez-robotics.github.io/EZ-Template/
 /////
@@ -10,6 +15,11 @@
 ///
 // Constants
 ///
+
+/////
+// DO NOT EDIT ANY of the constants functions!!!!
+/////
+
 void default_constants() {
   // P, I, D, and Start I
   chassis.pid_drive_constants_set(20.0, 0.0, 100.0);         // Fwd/rev constants, used for odom and non odom motions
