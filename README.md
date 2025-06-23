@@ -7,7 +7,7 @@ This is a simple to assemble VEX linetracking oriented bot designed for classroo
 
 ## Step 1 
 
-Install the IMU as shown below, using a light blue screw and nut.
+Install the IMU as shown below, using a dark blue screw and nut.
 
 [![Image](Pictures/step1.png)]
 [![Image](Pictures/step2.png)]
@@ -16,7 +16,7 @@ Install the IMU as shown below, using a light blue screw and nut.
 
 ## Step 2 
 
-Install the Distance Sensor as shown using two light blue screws.
+Install the Distance Sensor as shown using two dark blue screws.
 [![Image](Pictures/Step0.png)]
 
 ## Step 3 
