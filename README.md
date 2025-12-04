@@ -3,7 +3,11 @@
 Designed by: William Sellery
 
 This is a simple to assemble VEX linetracking oriented bot designed for classroom use, aided by the simple to use VEX ecosystem.
-
+The tracker bot featues a full suite of sensors such as
+- IMU
+- (2x) Optical Sensors
+- (3x) Linetracking (IR) Sensors
+- Distance Sensor
 
 ## Step 1 
 
